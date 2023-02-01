@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34154b03.css",
+    "main.js": "/static/js/main.006d7216.js",
+    "static/media/SFProText-Semibold.otf": "/static/media/SFProText-Semibold.e16deadd9dc50f769f31.otf",
+    "static/media/SFProText-Medium.otf": "/static/media/SFProText-Medium.eec811a8c90a516708ea.otf",
+    "static/media/SFProText-Bold.otf": "/static/media/SFProText-Bold.f321f7b8a04248a4394c.otf",
+    "static/media/SFProText-Light.otf": "/static/media/SFProText-Light.9f516e09570f34609f07.otf",
+    "static/media/SFProText-Regular.otf": "/static/media/SFProText-Regular.ba21d41dbb34b2e04643.otf",
+    "static/media/SFProText-Black.otf": "/static/media/SFProText-Black.a07bf2613e10747196f9.otf",
+    "static/media/run-prof.png": "/static/media/run-prof.a8ed9bb0b049a0e2420c.png",
+    "static/media/iphone.png": "/static/media/iphone.c8ba352b2a8aaafff2f5.png",
+    "static/media/app-bg.png": "/static/media/app-bg.5df9c05c789dd72f2524.png",
+    "static/media/rise-bg.png": "/static/media/rise-bg.bfecb01cf86c8ab85f3a.png",
+    "static/media/run-bg.png": "/static/media/run-bg.2754e74f52359b9bcb32.png",
+    "static/media/daily-news.png": "/static/media/daily-news.b76416cbc3467cacc24a.png",
+    "static/media/kprc.png": "/static/media/kprc.682c66385340c8699054.png",
+    "static/media/logo.png": "/static/media/logo.ecee4d69c7d49010efef.png",
+    "static/media/z100.png": "/static/media/z100.016955eb78d72edbb0ca.png",
+    "static/media/elvis-duran.png": "/static/media/elvis-duran.1fdbe5a0a1f04057082f.png",
+    "static/media/eye.svg": "/static/media/eye.afcb7d0fd3a4cb72584c.svg",
+    "index.html": "/index.html",
+    "static/media/down.svg": "/static/media/down.b81a7ee0e98273bf0715.svg",
+    "static/media/arrow.svg": "/static/media/arrow.c84c15a86429d1608725.svg",
+    "main.34154b03.css.map": "/static/css/main.34154b03.css.map",
+    "main.006d7216.js.map": "/static/js/main.006d7216.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34154b03.css",
+    "static/js/main.006d7216.js"
+  ]
+}
