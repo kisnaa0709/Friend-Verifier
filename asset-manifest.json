@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.34154b03.css",
-    "main.js": "/static/js/main.5f34de44.js",
+    "main.css": "/static/css/main.2e63ec67.css",
+    "main.js": "/static/js/main.b3cb82c1.js",
     "static/media/SFProText-Semibold.otf": "/static/media/SFProText-Semibold.e16deadd9dc50f769f31.otf",
     "static/media/SFProText-Medium.otf": "/static/media/SFProText-Medium.eec811a8c90a516708ea.otf",
     "static/media/SFProText-Bold.otf": "/static/media/SFProText-Bold.f321f7b8a04248a4394c.otf",
@@ -18,15 +18,14 @@
     "static/media/logo.png": "/static/media/logo.ecee4d69c7d49010efef.png",
     "static/media/z100.png": "/static/media/z100.016955eb78d72edbb0ca.png",
     "static/media/elvis-duran.png": "/static/media/elvis-duran.1fdbe5a0a1f04057082f.png",
-    "static/media/eye.svg": "/static/media/eye.afcb7d0fd3a4cb72584c.svg",
     "index.html": "/index.html",
     "static/media/down.svg": "/static/media/down.b81a7ee0e98273bf0715.svg",
     "static/media/arrow.svg": "/static/media/arrow.c84c15a86429d1608725.svg",
-    "main.34154b03.css.map": "/static/css/main.34154b03.css.map",
-    "main.5f34de44.js.map": "/static/js/main.5f34de44.js.map"
+    "main.2e63ec67.css.map": "/static/css/main.2e63ec67.css.map",
+    "main.b3cb82c1.js.map": "/static/js/main.b3cb82c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.34154b03.css",
-    "static/js/main.5f34de44.js"
+    "static/css/main.2e63ec67.css",
+    "static/js/main.b3cb82c1.js"
   ]
 }
