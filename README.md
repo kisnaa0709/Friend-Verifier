@@ -1,2 +1,2 @@
 # Friend Verifier
-* friendverifier.netlify.app
+* https://friendverifier.netlify.app/
